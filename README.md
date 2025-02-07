@@ -132,6 +132,6 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this software as stated in the LICENSE.
+MIT License. Feel free to use, modify, and distribute this software as stated in the LICENSE.
 
 Happy researching! If you find this helpful, consider giving this repo a star to show your support.
