@@ -41,11 +41,11 @@ Open Deep Research orchestrates various modules and utilities to create an end-t
    ```bash
    pip install -r requirements.txt
    ```
-4. (Optional) Configure environment variables for your LLM API keys:
+4. Configure environment variables for your LLM API keys:
    ```bash
    export GEMINI_API_KEY="your_gemini_api_key"
-   export GROQ_API_KEY="your_groq_api_key"
    ```
+   get your gemini api key [here](https://aistudio.google.com/prompts/new_chat?gad_source=1&gbraid=0AAAAACn9t65WXF3ja2g5I3EolNCFItuiX&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5Ie4hlj9NIbbns3EAXR_fZ6s5B29R2LlTIfPN9rjHnKEF3hbCkLjMaAhwvEALw_wcB)
 
 ## Usage
 
