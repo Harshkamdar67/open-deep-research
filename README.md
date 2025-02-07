@@ -2,7 +2,7 @@
 
 [Watch the video](https://youtu.be/fLB1cUaUdaY)
 
-Open Deep Research is an open-source alternative to OpenAI’s Deep Research, aiming to provide a robust research and data collection pipeline for large language model (LLM) projects. This repository offers a modular Python-based approach for performing multi-step research tasks, scraping relevant content from the web, and generating comprehensive summaries or structured reports.
+Open Deep Research is an open-source free alternative to OpenAI’s Deep Research, aiming to provide a robust research pipeline. This repository offers a modular Python-based approach for performing multi-step research tasks, scraping relevant content from the web, and generating comprehensive summaries or structured reports.
 
 ## Overview
 
