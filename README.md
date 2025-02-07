@@ -6,6 +6,8 @@ Open Deep Research is an open-source free alternative to OpenAI’s Deep Researc
 
 ## Overview
 
+![Architechture Diagram](architechture_diag.png)
+
 Open Deep Research orchestrates various modules and utilities to create an end-to-end research pipeline:
 
 - **Content Fetcher (`content_fetcher.py`)**: Fetches content asynchronously from a list of URLs using the `AsyncWebCrawler`.
